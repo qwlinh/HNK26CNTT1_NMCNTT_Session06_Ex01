@@ -9,4 +9,4 @@
    Get-content sever_log_500MB.log | more
  - Lệnh PowerShell để chie xem 10 dòng cuối cùng nhắm tìm ra lỗi là:
 
-   Get-contten sever_log_500MB -Tail 10 -encoding utf8
+   Get-content sever_log_500MB -Tail 10 -encoding utf8
